@@ -1,19 +1,13 @@
-🛒 Online Store Management System
+# Online Store Management System
 This Online Store Management System enables e-commerce platforms to manage customers, products, orders, inventory, and payments efficiently. It allows users to browse and purchase items, while automatically handling stock updates, order tracking, and payment logging.
 
-✅ Features
-Customer Management (Register, Login, Profile)
-
+# Features
+### Customer Management (Register, Login, Profile)
 Product Management (Add, View, Update Products)
-
 Order Management (Create, Track, Cancel Orders)
-
 Inventory System (Auto Update Stock Levels)
-
 Payment Handling (Record & Track Payments)
-
 Order Status Workflow (Pending → Shipped → Delivered)
-
 Reports & Queries (Top Products, Sales by Date, etc.)
 
 🔄 Workflow
