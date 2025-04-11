@@ -1,0 +1,9 @@
+product_id,name,description,price,stock,created_at
+1,"Wireless Mouse","Ergonomic wireless mouse",699.00,100,"2024-12-20 10:15:00"
+2,"Mechanical Keyboard","RGB mechanical keyboard",2299.00,50,"2025-01-05 14:30:00"
+3,"Laptop Stand","Adjustable aluminum stand",999.00,75,"2024-12-28 08:45:00"
+4,"USB-C Hub","Multiport USB-C adapter",1199.00,200,"2025-01-22 11:00:00"
+5,Webcam,"1080p HD webcam",1499.00,60,"2025-01-10 09:20:00"
+6,"Bluetooth Speaker","Portable Bluetooth speaker",1799.00,80,"2024-11-18 13:05:00"
+7,Smartwatch,"Fitness smartwatch",2999.00,40,"2025-01-15 17:45:00"
+8,"HD Monitor","24-inch HD monitor",8499.00,30,"2025-01-01 12:00:00"
