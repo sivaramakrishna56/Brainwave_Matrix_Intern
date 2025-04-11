@@ -69,6 +69,3 @@ LIMIT 10;
 
 ### Payments Table
 | payment_id | order_id | amount | method | status | payment_date |
-
-### Inventory (optional separate table or as part of Products)
-| inventory_id | product_id | stock_quantity | last_updated |
